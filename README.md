@@ -15,7 +15,7 @@ or build source code
 ```sh
 $ git clone https://github.com/lucasmendesl/registrobr-checker.git
 $ cd registrobr-checker
-$ go build -o registrobr-checker
+$ go build -o registrobr-checker ./cmd
 ```
 
 ## Usage
