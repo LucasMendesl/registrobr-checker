@@ -8,14 +8,14 @@ Easy way to validate if domain is avaiable for usage in [registro.br](https://re
 ## How to install
 
 ```
-go get github.com/lucasmendesl/registrobr-checker/cmd
+go get github.com/lucasmendesl/registrobr-checker/cmd/registrobr-checker
 ```
 or build source code
 
 ```sh
 $ git clone https://github.com/lucasmendesl/registrobr-checker.git
 $ cd registrobr-checker
-$ go build -o registrobr-checker ./cmd
+$ go build -o registrobr-checker ./cmd/registrobr-checker
 ```
 
 ## Usage
